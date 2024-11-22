@@ -1,0 +1,604 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/app.9tsjre4pz5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9tsjre4pz5"},{"Name":"integrity","Value":"sha256-Y3QRrYDjsQ\u002BBj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="},{"Name":"label","Value":"_content/BlazorCrudApp/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Y3QRrYDjsQ\u002BBj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 21:07:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/app.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Y3QRrYDjsQ\u002BBj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Y3QRrYDjsQ\u002BBj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 21:07:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/BlazorCrudApp.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlazorCrudApp.qtjgo70pku.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5909"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 21:25:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/BlazorCrudApp.qtjgo70pku.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlazorCrudApp.qtjgo70pku.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qtjgo70pku"},{"Name":"integrity","Value":"sha256-omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So="},{"Name":"label","Value":"_content/BlazorCrudApp/BlazorCrudApp.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5909"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 21:25:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/bootstrap/bootstrap.min.bpk8xqwxhs.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\bootstrap\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bpk8xqwxhs"},{"Name":"integrity","Value":"sha256-z8OR40MowJ8GgK6P89Y\u002BhiJK5\u002BcclzFHzLhFQLL92bg="},{"Name":"label","Value":"_content/BlazorCrudApp/bootstrap/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"162720"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022z8OR40MowJ8GgK6P89Y\u002BhiJK5\u002BcclzFHzLhFQLL92bg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/bootstrap/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\bootstrap\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z8OR40MowJ8GgK6P89Y\u002BhiJK5\u002BcclzFHzLhFQLL92bg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"162720"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022z8OR40MowJ8GgK6P89Y\u002BhiJK5\u002BcclzFHzLhFQLL92bg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/bootstrap/bootstrap.min.css.8inm30yfxf.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\bootstrap\bootstrap.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8inm30yfxf"},{"Name":"integrity","Value":"sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="},{"Name":"label","Value":"_content/BlazorCrudApp/bootstrap/bootstrap.min.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"449111"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/bootstrap/bootstrap.min.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\bootstrap\bootstrap.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"449111"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/all.9ne7oglbed.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ne7oglbed"},{"Name":"integrity","Value":"sha256-5a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/all.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/all.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"73625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/all.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"59344"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/all.min.guatu28glt.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"guatu28glt"},{"Name":"integrity","Value":"sha256-2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/all.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"59344"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/brands.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"732"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/brands.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"675"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/brands.min.w7cbcyjpsa.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w7cbcyjpsa"},{"Name":"integrity","Value":"sha256-nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/brands.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"675"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/brands.oqbp33yo8o.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oqbp33yo8o"},{"Name":"integrity","Value":"sha256-UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/brands.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"732"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/fontawesome.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"71990"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/fontawesome.k4jrsomqif.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k4jrsomqif"},{"Name":"integrity","Value":"sha256-bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/fontawesome.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"71990"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/fontawesome.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0BorooBceJV\u002BFaKVgTXeDzy4jpUVndD2wKAyvXaxsOk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"57912"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220BorooBceJV\u002BFaKVgTXeDzy4jpUVndD2wKAyvXaxsOk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/fontawesome.min.s1dvjlq7vx.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s1dvjlq7vx"},{"Name":"integrity","Value":"sha256-0BorooBceJV\u002BFaKVgTXeDzy4jpUVndD2wKAyvXaxsOk="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/fontawesome.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57912"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220BorooBceJV\u002BFaKVgTXeDzy4jpUVndD2wKAyvXaxsOk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/regular.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JOdUjmQuMY8GugqgUNNBFAEYI\u002B4jST3\u002B3/1b5HVnS8M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"734"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JOdUjmQuMY8GugqgUNNBFAEYI\u002B4jST3\u002B3/1b5HVnS8M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/regular.min.66d1rke41o.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"66d1rke41o"},{"Name":"integrity","Value":"sha256-7qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/regular.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"677"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/regular.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"677"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/regular.ofjnpb604g.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ofjnpb604g"},{"Name":"integrity","Value":"sha256-JOdUjmQuMY8GugqgUNNBFAEYI\u002B4jST3\u002B3/1b5HVnS8M="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/regular.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"734"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JOdUjmQuMY8GugqgUNNBFAEYI\u002B4jST3\u002B3/1b5HVnS8M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/solid.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-k89ulkWeQvn2VuA\u002BxIAFeNwsAh3N5HXJ5eiRp3gLCGY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"727"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022k89ulkWeQvn2VuA\u002BxIAFeNwsAh3N5HXJ5eiRp3gLCGY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/solid.min.12kldww9q7.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"12kldww9q7"},{"Name":"integrity","Value":"sha256-N7q2zVg5gujv9YUBqZ18XE1jZkwco0\u002BeO3z1JsW3OuI="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/solid.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"669"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N7q2zVg5gujv9YUBqZ18XE1jZkwco0\u002BeO3z1JsW3OuI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/solid.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N7q2zVg5gujv9YUBqZ18XE1jZkwco0\u002BeO3z1JsW3OuI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"669"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N7q2zVg5gujv9YUBqZ18XE1jZkwco0\u002BeO3z1JsW3OuI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/solid.xb4m5zeg6c.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xb4m5zeg6c"},{"Name":"integrity","Value":"sha256-k89ulkWeQvn2VuA\u002BxIAFeNwsAh3N5HXJ5eiRp3gLCGY="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/solid.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"727"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022k89ulkWeQvn2VuA\u002BxIAFeNwsAh3N5HXJ5eiRp3gLCGY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/svg-with-js.7xb2mcvnhx.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7xb2mcvnhx"},{"Name":"integrity","Value":"sha256-296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/svg-with-js.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8077"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/svg-with-js.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8077"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/svg-with-js.min.4xn2gkk93h.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4xn2gkk93h"},{"Name":"integrity","Value":"sha256-aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/svg-with-js.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6359"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/svg-with-js.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6359"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/v4-shims.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP\u002BPY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"41312"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP\u002BPY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/v4-shims.g0ml5kg9nc.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g0ml5kg9nc"},{"Name":"integrity","Value":"sha256-UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP\u002BPY="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/v4-shims.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41312"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP\u002BPY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/v4-shims.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xVkCgy\u002B4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"26702"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xVkCgy\u002B4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/css/v4-shims.min.rgmiwpghv8.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rgmiwpghv8"},{"Name":"integrity","Value":"sha256-xVkCgy\u002B4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/css/v4-shims.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26702"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xVkCgy\u002B4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/all.2zpt4m72sq.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2zpt4m72sq"},{"Name":"integrity","Value":"sha256-vrRvPLoPZ9h48ItDent8X4\u002B3Dw4A9VJVZ3BsLC5pJ\u002B8="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/all.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1261582"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vrRvPLoPZ9h48ItDent8X4\u002B3Dw4A9VJVZ3BsLC5pJ\u002B8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/all.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vrRvPLoPZ9h48ItDent8X4\u002B3Dw4A9VJVZ3BsLC5pJ\u002B8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1261582"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022vrRvPLoPZ9h48ItDent8X4\u002B3Dw4A9VJVZ3BsLC5pJ\u002B8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/all.min.159ggk7zqw.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"159ggk7zqw"},{"Name":"integrity","Value":"sha256-u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/all.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1195450"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/all.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1195450"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/brands.akr32ticbr.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"akr32ticbr"},{"Name":"integrity","Value":"sha256-SqQ72xRA23AbmtGIabc18L\u002BoD7Or\u002BgGYQ0b5P3\u002BAqC4="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/brands.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"455241"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022SqQ72xRA23AbmtGIabc18L\u002BoD7Or\u002BgGYQ0b5P3\u002BAqC4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/brands.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SqQ72xRA23AbmtGIabc18L\u002BoD7Or\u002BgGYQ0b5P3\u002BAqC4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"455241"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022SqQ72xRA23AbmtGIabc18L\u002BoD7Or\u002BgGYQ0b5P3\u002BAqC4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/brands.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"447933"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/brands.min.l18t0jzcyt.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l18t0jzcyt"},{"Name":"integrity","Value":"sha256-B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/brands.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"447933"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/conflict-detection.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33962"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/conflict-detection.min.4jd938vrmx.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4jd938vrmx"},{"Name":"integrity","Value":"sha256-QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/conflict-detection.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13533"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/conflict-detection.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13533"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/conflict-detection.uv122ubqen.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uv122ubqen"},{"Name":"integrity","Value":"sha256-CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/conflict-detection.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33962"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/fontawesome.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"79447"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00227c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/fontawesome.min.cahd0qrjrv.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cahd0qrjrv"},{"Name":"integrity","Value":"sha256-xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/fontawesome.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37330"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/fontawesome.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"37330"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/fontawesome.vpfytwbhoc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vpfytwbhoc"},{"Name":"integrity","Value":"sha256-7c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/fontawesome.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79447"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00227c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/regular.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BUMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1\u002BDmYgwqIA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"107110"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BUMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1\u002BDmYgwqIA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/regular.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8\u002BVC96I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"103386"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8\u002BVC96I=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/regular.min.o1ngxq0pub.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o1ngxq0pub"},{"Name":"integrity","Value":"sha256-rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8\u002BVC96I="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/regular.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"103386"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8\u002BVC96I=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/regular.v2md7lj44n.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v2md7lj44n"},{"Name":"integrity","Value":"sha256-\u002BUMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1\u002BDmYgwqIA="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/regular.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"107110"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BUMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1\u002BDmYgwqIA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/solid.5l688dl96a.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5l688dl96a"},{"Name":"integrity","Value":"sha256-p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/solid.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"620342"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/solid.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"620342"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/solid.min.b9f2ga5r0e.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b9f2ga5r0e"},{"Name":"integrity","Value":"sha256-v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/solid.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"607362"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/solid.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"607362"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/v4-shims.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rYhCFGvoG5Tunmx1qbOorgVkjO2D\u002BTizvdnmDK624Fo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"17459"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rYhCFGvoG5Tunmx1qbOorgVkjO2D\u002BTizvdnmDK624Fo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/v4-shims.min.4f0oklpyf1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4f0oklpyf1"},{"Name":"integrity","Value":"sha256-IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/v4-shims.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15055"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/v4-shims.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15055"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/js/v4-shims.res275atzz.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"res275atzz"},{"Name":"integrity","Value":"sha256-rYhCFGvoG5Tunmx1qbOorgVkjO2D\u002BTizvdnmDK624Fo="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/js/v4-shims.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17459"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rYhCFGvoG5Tunmx1qbOorgVkjO2D\u002BTizvdnmDK624Fo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/sprites/brands.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\brands.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"469277"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/sprites/brands.wm9iq0qqbz.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\brands.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wm9iq0qqbz"},{"Name":"integrity","Value":"sha256-uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/sprites/brands.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"469277"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/sprites/regular.l7juqzybtr.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\regular.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l7juqzybtr"},{"Name":"integrity","Value":"sha256-P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/sprites/regular.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"109518"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/sprites/regular.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\regular.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"109518"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/sprites/solid.3bobuqtupf.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\solid.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3bobuqtupf"},{"Name":"integrity","Value":"sha256-MdqMgj/\u002BNxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/sprites/solid.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"655050"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022MdqMgj/\u002BNxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/sprites/solid.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\solid.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MdqMgj/\u002BNxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"655050"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022MdqMgj/\u002BNxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.30kke87jcx.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"30kke87jcx"},{"Name":"integrity","Value":"sha256-Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76764"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"134346"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.jfkp48mz7b.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jfkp48mz7b"},{"Name":"integrity","Value":"sha256-r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"90060"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.kvlwzfz6s8.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kvlwzfz6s8"},{"Name":"integrity","Value":"sha256-QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"134346"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.nozb2gtrfc.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nozb2gtrfc"},{"Name":"integrity","Value":"sha256-Z5taUha735E8wi1q5Ed4we\u002BXXuOHpsTF3ofnXRmiIjI="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"747545"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022Z5taUha735E8wi1q5Ed4we\u002BXXuOHpsTF3ofnXRmiIjI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z5taUha735E8wi1q5Ed4we\u002BXXuOHpsTF3ofnXRmiIjI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"747545"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022Z5taUha735E8wi1q5Ed4we\u002BXXuOHpsTF3ofnXRmiIjI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"134040"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.uef0e2tr7y.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uef0e2tr7y"},{"Name":"integrity","Value":"sha256-BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"134040"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"90060"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"76764"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.61m01fdy9x.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"61m01fdy9x"},{"Name":"integrity","Value":"sha256-ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13276"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.8thrsep6k3.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8thrsep6k3"},{"Name":"integrity","Value":"sha256-FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16276"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.ar3fhcnjd9.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ar3fhcnjd9"},{"Name":"integrity","Value":"sha256-xlG4pn0xkyBvYiw8Ow\u002B8pKLycnEIxCErUsHiouhMmzE="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33736"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022xlG4pn0xkyBvYiw8Ow\u002B8pKLycnEIxCErUsHiouhMmzE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F\u002BQu8qewdI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"34034"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F\u002BQu8qewdI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.rdeckfcbxp.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rdeckfcbxp"},{"Name":"integrity","Value":"sha256-z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F\u002BQu8qewdI="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34034"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F\u002BQu8qewdI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IyaEm2w9\u002BiF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"144714"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022IyaEm2w9\u002BiF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xlG4pn0xkyBvYiw8Ow\u002B8pKLycnEIxCErUsHiouhMmzE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33736"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022xlG4pn0xkyBvYiw8Ow\u002B8pKLycnEIxCErUsHiouhMmzE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.vld1fz1ls6.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vld1fz1ls6"},{"Name":"integrity","Value":"sha256-IyaEm2w9\u002BiF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"144714"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022IyaEm2w9\u002BiF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"16276"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13276"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.4031gq39xl.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4031gq39xl"},{"Name":"integrity","Value":"sha256-dO3Bi2fEh\u002BMvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101652"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022dO3Bi2fEh\u002BMvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.beopicb82q.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"beopicb82q"},{"Name":"integrity","Value":"sha256-PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ\u002BA8I="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"202744"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ\u002BA8I=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"203030"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.i5kgwnlnc3.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i5kgwnlnc3"},{"Name":"integrity","Value":"sha256-\u002BkmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"918991"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022\u002BkmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.pvchc0s0od.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pvchc0s0od"},{"Name":"integrity","Value":"sha256-dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"203030"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.s11ahczc5j.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s11ahczc5j"},{"Name":"integrity","Value":"sha256-0LQlar7XJIFYVmKXEmLqvuNFwZ\u002BDevANfOJCOdO0Du8="},{"Name":"label","Value":"_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78196"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00220LQlar7XJIFYVmKXEmLqvuNFwZ\u002BDevANfOJCOdO0Du8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BkmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"918991"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022\u002BkmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ\u002BA8I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"202744"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ\u002BA8I=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dO3Bi2fEh\u002BMvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"101652"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022dO3Bi2fEh\u002BMvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BlazorCrudApp/lib/font-awesome/webfonts/fa-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0LQlar7XJIFYVmKXEmLqvuNFwZ\u002BDevANfOJCOdO0Du8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"78196"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u00220LQlar7XJIFYVmKXEmLqvuNFwZ\u002BDevANfOJCOdO0Du8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Oct 2024 15:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

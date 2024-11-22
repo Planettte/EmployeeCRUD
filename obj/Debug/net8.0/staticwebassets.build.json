@@ -1,0 +1,5275 @@
+{
+  "Version": 1,
+  "Hash": "tW6TZjtPyWKUh1nr0393AhSlj77rRMsU0/RwMhePZuk=",
+  "Source": "BlazorCrudApp",
+  "BasePath": "_content/BlazorCrudApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorCrudApp\\wwwroot",
+      "Source": "BlazorCrudApp",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorCrudApp.styles.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "BlazorCrudApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "qtjgo70pku",
+      "Integrity": "omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorCrudApp.styles.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorCrudApp.bundle.scp.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "BlazorCrudApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "qtjgo70pku",
+      "Integrity": "omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorCrudApp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\app.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9tsjre4pz5",
+      "Integrity": "Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/all#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ne7oglbed",
+      "Integrity": "5a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/all.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "guatu28glt",
+      "Integrity": "2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/brands#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oqbp33yo8o",
+      "Integrity": "UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/brands.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w7cbcyjpsa",
+      "Integrity": "nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/fontawesome#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k4jrsomqif",
+      "Integrity": "bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/fontawesome.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s1dvjlq7vx",
+      "Integrity": "0BorooBceJV+FaKVgTXeDzy4jpUVndD2wKAyvXaxsOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/regular#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ofjnpb604g",
+      "Integrity": "JOdUjmQuMY8GugqgUNNBFAEYI+4jST3+3/1b5HVnS8M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/regular.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "66d1rke41o",
+      "Integrity": "7qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/solid#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xb4m5zeg6c",
+      "Integrity": "k89ulkWeQvn2VuA+xIAFeNwsAh3N5HXJ5eiRp3gLCGY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/solid.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "12kldww9q7",
+      "Integrity": "N7q2zVg5gujv9YUBqZ18XE1jZkwco0+eO3z1JsW3OuI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/svg-with-js#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7xb2mcvnhx",
+      "Integrity": "296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/svg-with-js.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4xn2gkk93h",
+      "Integrity": "aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/v4-shims#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g0ml5kg9nc",
+      "Integrity": "UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP+PY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/css/v4-shims.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rgmiwpghv8",
+      "Integrity": "xVkCgy+4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/all#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2zpt4m72sq",
+      "Integrity": "vrRvPLoPZ9h48ItDent8X4+3Dw4A9VJVZ3BsLC5pJ+8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/all.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "159ggk7zqw",
+      "Integrity": "u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/brands#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akr32ticbr",
+      "Integrity": "SqQ72xRA23AbmtGIabc18L+oD7Or+gGYQ0b5P3+AqC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/brands.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l18t0jzcyt",
+      "Integrity": "B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/conflict-detection#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uv122ubqen",
+      "Integrity": "CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/conflict-detection.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4jd938vrmx",
+      "Integrity": "QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/fontawesome#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vpfytwbhoc",
+      "Integrity": "7c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/fontawesome.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cahd0qrjrv",
+      "Integrity": "xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/regular#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v2md7lj44n",
+      "Integrity": "+UMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1+DmYgwqIA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/regular.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1ngxq0pub",
+      "Integrity": "rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8+VC96I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/solid#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5l688dl96a",
+      "Integrity": "p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/solid.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b9f2ga5r0e",
+      "Integrity": "v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/v4-shims#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "res275atzz",
+      "Integrity": "rYhCFGvoG5Tunmx1qbOorgVkjO2D+TizvdnmDK624Fo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/js/v4-shims.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4f0oklpyf1",
+      "Integrity": "IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/sprites/brands#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wm9iq0qqbz",
+      "Integrity": "uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/sprites/regular#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l7juqzybtr",
+      "Integrity": "P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/sprites/solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3bobuqtupf",
+      "Integrity": "MdqMgj/+NxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kvlwzfz6s8",
+      "Integrity": "QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nozb2gtrfc",
+      "Integrity": "Z5taUha735E8wi1q5Ed4we+XXuOHpsTF3ofnXRmiIjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uef0e2tr7y",
+      "Integrity": "BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jfkp48mz7b",
+      "Integrity": "r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "30kke87jcx",
+      "Integrity": "Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rdeckfcbxp",
+      "Integrity": "z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F+Qu8qewdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vld1fz1ls6",
+      "Integrity": "IyaEm2w9+iF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ar3fhcnjd9",
+      "Integrity": "xlG4pn0xkyBvYiw8Ow+8pKLycnEIxCErUsHiouhMmzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8thrsep6k3",
+      "Integrity": "FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61m01fdy9x",
+      "Integrity": "ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pvchc0s0od",
+      "Integrity": "dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i5kgwnlnc3",
+      "Integrity": "+kmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "beopicb82q",
+      "Integrity": "PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ+A8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4031gq39xl",
+      "Integrity": "dO3Bi2fEh+MvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Identity": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "BlazorCrudApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\",
+      "BasePath": "_content/BlazorCrudApp",
+      "RelativePath": "lib/font-awesome/webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s11ahczc5j",
+      "Integrity": "0LQlar7XJIFYVmKXEmLqvuNFwZ+DevANfOJCOdO0Du8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.9tsjre4pz5.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 21:07:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tsjre4pz5"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 21:07:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorCrudApp.bundle.scp.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorCrudApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 21:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorCrudApp.qtjgo70pku.bundle.scp.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorCrudApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 21:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qtjgo70pku"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorCrudApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorCrudApp.qtjgo70pku.styles.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorCrudApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 21:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qtjgo70pku"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorCrudApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorCrudApp.styles.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorCrudApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Nov 2024 21:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omNyO/oZrcOtJe2nXWfsI2Xfuk3JP0dyQIeKn/gZ5So="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/all.9ne7oglbed.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ne7oglbed"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/all.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/all.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5a0xpHkTzfwkcKzU4wSYL64rzPYgmIVf7PO4TB5/6jQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/all.min.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/all.min.guatu28glt.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "guatu28glt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/all.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/brands.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/brands.min.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/brands.min.w7cbcyjpsa.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7cbcyjpsa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/brands.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nNY7jOolBFwUYjxTjSZ1JRiljAxoJ5XOatMHiXbGWjc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/brands.oqbp33yo8o.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oqbp33yo8o"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/brands.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UAmjTjAGP/uJGFJ0aBs1mujH2sGaYG1bFFbuNSTLybA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/fontawesome.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/fontawesome.k4jrsomqif.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k4jrsomqif"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/fontawesome.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bIpDwGRWgwbsK1aDr/KE62U7bst6mg3MEPcafHkSCeg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/fontawesome.min.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0BorooBceJV+FaKVgTXeDzy4jpUVndD2wKAyvXaxsOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0BorooBceJV+FaKVgTXeDzy4jpUVndD2wKAyvXaxsOk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/fontawesome.min.s1dvjlq7vx.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0BorooBceJV+FaKVgTXeDzy4jpUVndD2wKAyvXaxsOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1dvjlq7vx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/fontawesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0BorooBceJV+FaKVgTXeDzy4jpUVndD2wKAyvXaxsOk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/regular.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "734"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdUjmQuMY8GugqgUNNBFAEYI+4jST3+3/1b5HVnS8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdUjmQuMY8GugqgUNNBFAEYI+4jST3+3/1b5HVnS8M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/regular.min.66d1rke41o.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66d1rke41o"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/regular.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/regular.min.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7qPWzNp/ZQMHjM6dxBF2wTV68ck6WzYlEx73zyHJ18Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/regular.ofjnpb604g.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "734"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOdUjmQuMY8GugqgUNNBFAEYI+4jST3+3/1b5HVnS8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ofjnpb604g"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/regular.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOdUjmQuMY8GugqgUNNBFAEYI+4jST3+3/1b5HVnS8M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/solid.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k89ulkWeQvn2VuA+xIAFeNwsAh3N5HXJ5eiRp3gLCGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k89ulkWeQvn2VuA+xIAFeNwsAh3N5HXJ5eiRp3gLCGY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/solid.min.12kldww9q7.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7q2zVg5gujv9YUBqZ18XE1jZkwco0+eO3z1JsW3OuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12kldww9q7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/solid.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7q2zVg5gujv9YUBqZ18XE1jZkwco0+eO3z1JsW3OuI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/solid.min.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7q2zVg5gujv9YUBqZ18XE1jZkwco0+eO3z1JsW3OuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7q2zVg5gujv9YUBqZ18XE1jZkwco0+eO3z1JsW3OuI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/solid.xb4m5zeg6c.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k89ulkWeQvn2VuA+xIAFeNwsAh3N5HXJ5eiRp3gLCGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb4m5zeg6c"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/solid.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k89ulkWeQvn2VuA+xIAFeNwsAh3N5HXJ5eiRp3gLCGY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/svg-with-js.7xb2mcvnhx.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7xb2mcvnhx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/svg-with-js.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/svg-with-js.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-296EDt4eprQ6RIUG6kzGhS4OqM6Wco4bwbd91zirOQs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/svg-with-js.min.4xn2gkk93h.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4xn2gkk93h"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/svg-with-js.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/svg-with-js.min.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aLr6D2RuOF/m2nqDnvMsDwttCr1yhPDM5oQ1x3CVUCU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/v4-shims.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP+PY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP+PY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/v4-shims.g0ml5kg9nc.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP+PY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g0ml5kg9nc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/v4-shims.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UGiDvawURBmW/scorojYesSCiOJpUF16Ned6weTP+PY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/v4-shims.min.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xVkCgy+4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVkCgy+4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/css/v4-shims.min.rgmiwpghv8.css",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xVkCgy+4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgmiwpghv8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/css/v4-shims.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVkCgy+4RSLQLqGmCjB0dAOhQNhlH6dI8TujmLDA3zo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/all.2zpt4m72sq.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1261582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vrRvPLoPZ9h48ItDent8X4+3Dw4A9VJVZ3BsLC5pJ+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zpt4m72sq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/all.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vrRvPLoPZ9h48ItDent8X4+3Dw4A9VJVZ3BsLC5pJ+8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/all.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1261582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vrRvPLoPZ9h48ItDent8X4+3Dw4A9VJVZ3BsLC5pJ+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vrRvPLoPZ9h48ItDent8X4+3Dw4A9VJVZ3BsLC5pJ+8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/all.min.159ggk7zqw.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "159ggk7zqw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/all.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/all.min.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u11/XQI2A6mpXa0j1p0l0UpO3ZuiMTInGUqaT2K9ZWQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/brands.akr32ticbr.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "455241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SqQ72xRA23AbmtGIabc18L+oD7Or+gGYQ0b5P3+AqC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akr32ticbr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/brands.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SqQ72xRA23AbmtGIabc18L+oD7Or+gGYQ0b5P3+AqC4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/brands.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "455241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SqQ72xRA23AbmtGIabc18L+oD7Or+gGYQ0b5P3+AqC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SqQ72xRA23AbmtGIabc18L+oD7Or+gGYQ0b5P3+AqC4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/brands.min.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/brands.min.l18t0jzcyt.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l18t0jzcyt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/brands.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B9ZAkkLg1pSjLHvvCKGEpIUVbxQ9RAyVwkkN9g6eq7c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/conflict-detection.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/conflict-detection.min.4jd938vrmx.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jd938vrmx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/conflict-detection.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/conflict-detection.min.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKCJRYoRlfjmNwOGedbJfH0jEeCqrkjqhlyMb9VU2B8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/conflict-detection.uv122ubqen.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uv122ubqen"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/conflict-detection.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CiCWdzPnIboiXaEJT8zVzcGHcnpgQVIbSmu2YvCgnQs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/fontawesome.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/fontawesome.min.cahd0qrjrv.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cahd0qrjrv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/fontawesome.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/fontawesome.min.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLAK3iA6CJoaC89O/DhonpICvf5QmdWhcPJyJDOywJM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/fontawesome.vpfytwbhoc.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vpfytwbhoc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/fontawesome.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7c57jTpd/j6S6jU63OwnLYB/KvSJHM/DT45g8WJAatg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/regular.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1+DmYgwqIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1+DmYgwqIA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/regular.min.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8+VC96I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8+VC96I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/regular.min.o1ngxq0pub.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8+VC96I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1ngxq0pub"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/regular.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rIGMEmpuRAEYRCuC2kaULwzFzeeKjt7gBhzw8+VC96I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/regular.v2md7lj44n.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1+DmYgwqIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v2md7lj44n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/regular.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UMMoBq1TsX1NMvUXRj0odIVN9ResIkVw1+DmYgwqIA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/solid.5l688dl96a.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5l688dl96a"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/solid.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/solid.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p0CYtBLsvcbZxEvYERIw4DgTAHsZVNRMvd80IUdKftY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/solid.min.b9f2ga5r0e.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "607362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b9f2ga5r0e"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/solid.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/solid.min.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "607362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v0EaefEAEFQj4te506qWzD4Hs4l5i/nUmdriQAsks3Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/v4-shims.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rYhCFGvoG5Tunmx1qbOorgVkjO2D+TizvdnmDK624Fo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rYhCFGvoG5Tunmx1qbOorgVkjO2D+TizvdnmDK624Fo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/v4-shims.min.4f0oklpyf1.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f0oklpyf1"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/v4-shims.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/v4-shims.min.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IDABAAlOkDRs9lG2ETHekJPbuWUaGoYt/SgiLHgjSqg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/js/v4-shims.res275atzz.js",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rYhCFGvoG5Tunmx1qbOorgVkjO2D+TizvdnmDK624Fo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "res275atzz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/js/v4-shims.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rYhCFGvoG5Tunmx1qbOorgVkjO2D+TizvdnmDK624Fo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/sprites/brands.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/sprites/brands.wm9iq0qqbz.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wm9iq0qqbz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/sprites/brands.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uITnCWORXIq7UTPKpNDVVByPC0STWY6UclFHuSw83uM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/sprites/regular.l7juqzybtr.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l7juqzybtr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/sprites/regular.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/sprites/regular.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P50VEAm8sIjnzrH2BKq3gybZUVVIyIIdWtfiuW3n/4s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/sprites/solid.3bobuqtupf.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "655050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MdqMgj/+NxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3bobuqtupf"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/sprites/solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MdqMgj/+NxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/sprites/solid.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "655050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MdqMgj/+NxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MdqMgj/+NxmlkN2gYitViItvWERgzzUOhDHW1DGoJW0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.30kke87jcx.woff2",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "30kke87jcx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.eot",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.jfkp48mz7b.woff",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jfkp48mz7b"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.kvlwzfz6s8.eot",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kvlwzfz6s8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QHqXI/xxfJTih0lggNdz4Y4pw8rEniYwFyNDxlwIZKg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.nozb2gtrfc.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5taUha735E8wi1q5Ed4we+XXuOHpsTF3ofnXRmiIjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nozb2gtrfc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5taUha735E8wi1q5Ed4we+XXuOHpsTF3ofnXRmiIjI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5taUha735E8wi1q5Ed4we+XXuOHpsTF3ofnXRmiIjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5taUha735E8wi1q5Ed4we+XXuOHpsTF3ofnXRmiIjI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.uef0e2tr7y.ttf",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uef0e2tr7y"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-brands-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.woff",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r/duXJhvKV1LxvgUKnjioxiIsQHC0CXbifecdfZP2Qs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q8BywWye5tZ6zfpsbWaF/x5060I3t8w8E0irHBCLJq8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.61m01fdy9x.woff2",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61m01fdy9x"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.8thrsep6k3.woff",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8thrsep6k3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.ar3fhcnjd9.ttf",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlG4pn0xkyBvYiw8Ow+8pKLycnEIxCErUsHiouhMmzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ar3fhcnjd9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlG4pn0xkyBvYiw8Ow+8pKLycnEIxCErUsHiouhMmzE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.eot",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F+Qu8qewdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F+Qu8qewdI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.rdeckfcbxp.eot",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F+Qu8qewdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rdeckfcbxp"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4P/uM8AI71Dnf3V0C8ZVLbuAn6FiX1s/F+Qu8qewdI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IyaEm2w9+iF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IyaEm2w9+iF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.ttf",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlG4pn0xkyBvYiw8Ow+8pKLycnEIxCErUsHiouhMmzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlG4pn0xkyBvYiw8Ow+8pKLycnEIxCErUsHiouhMmzE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.vld1fz1ls6.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IyaEm2w9+iF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vld1fz1ls6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-regular-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IyaEm2w9+iF6Dp7K7JVTyRCk4ph8hzFchQc9K5WkhPM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.woff",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FMnbT/h/3gj2ewpp3VlLq22HF0gSoNvTTFmDO/7YzA4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ivxuXoQrqrFgEMLOb89I7E3tjhV5o3wfG8An4SDQSVE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.4031gq39xl.woff",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dO3Bi2fEh+MvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4031gq39xl"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dO3Bi2fEh+MvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.beopicb82q.ttf",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ+A8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "beopicb82q"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ+A8I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.eot",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.i5kgwnlnc3.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "918991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+kmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5kgwnlnc3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.pvchc0s0od.eot",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pvchc0s0od"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dadhFZriZsUzKk8mbgelVDcS/7du4CYLB3ghlcBNw2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.s11ahczc5j.woff2",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0LQlar7XJIFYVmKXEmLqvuNFwZ+DevANfOJCOdO0Du8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s11ahczc5j"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/webfonts/fa-solid-900.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0LQlar7XJIFYVmKXEmLqvuNFwZ+DevANfOJCOdO0Du8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.svg",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "918991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+kmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+kmPsllqUjXFyG17aKf7526YVcAa9LDlq0HEEEfGSOA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ+A8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ+A8I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.woff",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dO3Bi2fEh+MvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dO3Bi2fEh+MvGBcZ/bNH4udwIHRGUfRG6azXvWgh4uc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "AssetFile": "D:\\Proyectos\\BlazorCrudApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0LQlar7XJIFYVmKXEmLqvuNFwZ+DevANfOJCOdO0Du8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 15:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0LQlar7XJIFYVmKXEmLqvuNFwZ+DevANfOJCOdO0Du8="
+        }
+      ]
+    }
+  ]
+}
